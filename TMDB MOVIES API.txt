@@ -1,0 +1,8 @@
+TMDB Movie API
+
+username: kaurLove123
+password: nimble@123
+
+email used: lovepreet@nimbletechnocrats.com
+
+filled form with phone number and adress details
